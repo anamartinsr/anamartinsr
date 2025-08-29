@@ -24,6 +24,10 @@
 
 ##  Estatísticas do GitHub
 
-<p align="center">
+ <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
