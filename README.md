@@ -32,8 +32,6 @@ Tecnologias
 Estatísticas do GitHub
 </span>
 
-<br>
-
  <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=15&theme=chartreuse-dark&show_icons=true&hide_title=true&border_color=00bfbf"/>
 </p>
