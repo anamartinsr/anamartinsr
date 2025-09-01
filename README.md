@@ -14,8 +14,12 @@
  Graduanda em **Sistemas de Informação**  
  Apaixonada por criar soluções escaláveis, conectando sistemas de forma inteligente, com foco em organização, eficiência e alto desempenho.
 
+<span style="font-size:22px; font-weight: bold; color:00bfbf">
+Tecnologias
+</span>
 
-##  Tecnologias
+<br>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,10 +28,14 @@
 </p>
 
 
-##  Estatísticas do GitHub
+<span style="font-size:22px; font-weight: bold; color:00bfbf">
+Estatísticas do GitHub
+</span>
+
+<br>
 
  <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=15&theme=chartreuse-dark&show_icons=true&hide_title=true&border_color=00bfbf"/>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
