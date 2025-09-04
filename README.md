@@ -1,33 +1,53 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ana+Martins;Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/anamartinsr)](https://br.linkedin.com/in/anamartinsr)
-[![Gmail Badge](https://img.shields.io/badge/-martinnrs.ana@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinnrs.ana@gmail.com)](mailto:martinnrs.ana@gmail.com)
-
-</div>
-
- **Desenvolvedora de Software** | Backend & Frontend  
- Graduanda em **Sistemas de Informação**  
- Apaixonada por criar soluções escaláveis, conectando sistemas de forma inteligente, com foco em organização, eficiência e alto desempenho.
-
-
-##  Tecnologias
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00bfbf&text=Hello,%20I'm%20Ana%20Martins%20👋&textBg=false&fontAlignY=45&section=header&fontSize=30&fontColor=ffffff"/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,mysql,postgresql,mongodb,docker,nginx,git,linux,postman" />
+  <em>Software Developer • FullStack • APIs • Integrations</em>
+</p>
+
+<p align="center">
+  <a href="https://br.linkedin.com/in/anamartinsr">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> &nbsp
+  <a href="mailto:martinnrs.ana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 
-##  Estatísticas do GitHub
+### 🧠 About Me
 
- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=15&theme=chartreuse-dark&show_icons=true&hide_title=true&border_color=00bfbf"/>
+-  Graduanda em **Sistemas de Informação**  
+-  Experiência em **desenvolvimento back-end**, com foco em arquitetura, organização de projetos e APIs REST  
+-  Atuação na definição de **regras de negócio** e implementação de soluções eficientes e escaláveis  
+-  Experiência em **desenvolvimento frontend**, considerando boas práticas de usabilidade e acessibilidade    
+
+---
+
+### 💻 Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,docker,nginx,linux,mysql,postgresql,mongodb,react,tailwind,git,github" />
+  </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+**Conhecimentos principais:**
+- JavaScript • TypeScript • Node.js  
+- Docker • CI/CD • Nginx  
+- APIs REST • SQL (MySQL, PostgreSQL) • NoSQL (MongoDB)  
+- React • TailwindCSS   
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&border_color=00bfbf"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamartinsr&show_icons=true&theme=tokyonight&hide_border=false&border_color=00bfbf&rank_icon=github"/>
+</p>
+
+<p align="center">
+  <em>"Turning complex problems into simple solutions, one line at a time."</em>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00bfbf&textBg=false&fontAlignY=45&section=footer&fontSize=30&fontColor=ffffff"/>
