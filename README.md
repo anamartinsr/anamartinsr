@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=4400dc&text=Hello,%20I%27m%20Ana%20Martins%20👋&fontAlign=50&fontSize=30&fontAlignY=45&fontColor=ffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=3c1a7d&text=Hello,%20I%27m%20Ana%20Martins%20👋&fontAlign=50&fontSize=30&fontAlignY=45&fontColor=ffff"/>
 
 <p align="center">
   <em>Software Developer • FullStack • APIs • Integrations</em>
@@ -14,7 +14,7 @@
 </p>
 
 
-### 🧠 About Me
+### About Me
 
 -  Graduanda em **Sistemas de Informação**  
 -  Experiência em **desenvolvimento back-end**, com foco em arquitetura, organização de projetos e APIs REST  
@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 Skills
+### Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&border_color=00bfbf"/>
@@ -50,4 +50,4 @@
   <em>"Turning complex problems into simple solutions, one line at a time."</em>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=4400dc&textBg=false&fontAlignY=45&section=footer&fontSize=30&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=3c1a7d&textBg=false&fontAlignY=45&section=footer&fontSize=30&fontColor=ffffff"/>
