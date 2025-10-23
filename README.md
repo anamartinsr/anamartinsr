@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00bfbf&text=Hello,%20I'm%20Ana%20Martins%20👋&textBg=false&fontAlignY=45&section=header&fontSize=30&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=4400dc&text=Hello,%20I%27m%20Ana%20Martins%20👋&fontAlign=50&fontSize=30&fontAlignY=45&fontColor=ffff"/>
 
 <p align="center">
   <em>Software Developer • FullStack • APIs • Integrations</em>
@@ -50,4 +50,4 @@
   <em>"Turning complex problems into simple solutions, one line at a time."</em>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00bfbf&textBg=false&fontAlignY=45&section=footer&fontSize=30&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=4400dc&textBg=false&fontAlignY=45&section=footer&fontSize=30&fontColor=ffffff"/>
