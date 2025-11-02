@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,docker,nginx,linux,mysql,postgresql,mongodb,react,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,docker,nginx,linux,mysql,postgresql,mongodb,react,tailwind,jest,git,github" />
   </a>
 </p>
 
@@ -35,7 +35,8 @@
 - JavaScript • TypeScript • Node.js  
 - Docker • CI/CD • Nginx  
 - APIs REST • SQL (MySQL, PostgreSQL) • NoSQL (MongoDB)  
-- React • TailwindCSS   
+- React • TailwindCSS
+- Testes unitários e de integração
 
 ---
 
