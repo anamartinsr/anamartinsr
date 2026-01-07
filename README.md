@@ -1,8 +1,5 @@
-<p align="center">
-  <strong>Backend Developer • APIs • System Integrations</strong>
-</p>
+## Backend Developer • APIs • System Integrations
 
-<p align="center">
   <a href="https://br.linkedin.com/in/anamartinsr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -10,7 +7,7 @@
   <a href="mailto:martinnrs.ana@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+
 
 ---
 
