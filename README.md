@@ -1,4 +1,4 @@
-## FullStack Developer • APIs • System Integrations
+## Full Stack Developer • APIs • System Integrations
 
   <a href="https://br.linkedin.com/in/anamartinsr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
