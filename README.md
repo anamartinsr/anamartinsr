@@ -14,13 +14,13 @@
 ### Software Developer 
 
 * Focused on TypeScript and JavaScript (Node.js and React), with expertise in API design and system integrations, building intuitive interfaces with high cognitive usability
-* Production experience with REST APIs, PostgreSQL, MySQL, MongoDB, Redis, Docker, CI/CD, Nginx, React, Tailwind CSS, unit and integration tests using Jest and SuperTest
+* Production experience with REST APIs, PostgreSQL, MySQL, MongoDB, Nest.js, Redis, Docker, CI/CD, Nginx, React, Tailwind CSS, unit and integration tests using Jest and SuperTest
 * Strong focus on business rules, clean architecture, and system design
 * Currently improving skills in testing strategies, performance optimization, scalability, and practical AI applications for optimization and automation
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,docker,nginx,linux,mysql,redis,postgresql,mongodb,react,tailwind,jest,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,docker,nginx,linux,mysql,redis,postgresql,mongodb,react,tailwind,jest,git" />
   </a>
 </p>
 
