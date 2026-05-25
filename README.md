@@ -13,10 +13,10 @@
 
 ### Software Developer 
 
-* Focused on TypeScript and JavaScript (Node.js and React), with expertise in API design and system integrations, building intuitive interfaces with high cognitive usability
-* Production experience with REST APIs, PostgreSQL, MySQL, MongoDB, Nest.js, Redis, Docker, CI/CD, Nginx, React, Tailwind CSS, unit and integration tests using Jest and SuperTest
-* Strong focus on business rules, clean architecture, and system design
-* Currently improving skills in testing strategies, performance optimization, scalability, and practical AI applications for optimization and automation
+* Full Stack Developer with 2 years of experience working on the development of REST APIs, integrations, and organization of business rule-driven systems.
+* I primarily work with Typescript and Javascript, Node and React, structuring Full Stack projects, defining flows, and applying best architectural practices.
+* Experience in production with technologies such as REST APIs, PostgreSQL, MySQL, MongoDB, Nest.js, Redis, Docker, CI/CD, Nginx, React, Next.js, Tailwind CSS, unit and integration testing using Jest and SuperTest.
+* I serve as the representative for the Information Systems course on the faculty board, participating in academic decisions and contributing to improved communication between students and the administration.
 
 <p align="center">
   <a href="https://skillicons.dev">
